@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mapmaker</string>
+    <string name="button_start">Weiter</string>
+    <string name="seekbar_aiming">Aiming Sphero</string>
+    <string name="tV_Info_button_start">Durch Klicken auf "Weiter" wird die Kartenansicht angezeigt. In der Kartenansicht ist die Aufzeichnung des Raumes durch Spheros Kollisionen mit der Wand zu sehen.</string>
+    <string name="tView_Info_start_pause_stop">Über die Felder Start, Pause und Stop auf der Kartenansicht auf der nächsten Seite kann Spheros Erkundungstour gestartet, pausiert und beendet werden.</string>
+    <string name="tV_Info_seekbar_aiming">Bewege den Regler nach rechts, um Sphero auszurichten. Das blaue Licht ist Spheros Rücklicht.</string>
+</resources>
